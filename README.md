@@ -1,4 +1,4 @@
-# 🧠 SMARTMRI™ – Sovereign Modular Adaptive Recalibration Technology
+# 🧠 SMARTMRI™ – Sovereign Modular Adaptive Recalibration Technology via Mixed Reality Immersion
 
 > “Recalibrating the human mind through consciousness, connection, and code.”
 
@@ -6,7 +6,7 @@
 
 ## 🌍 Overview
 
-**SMARTMRI™ (Sovereign Modular Adaptive Recalibration Technology)** is a next-generation neuroadaptive framework developed by **CYNKRONAI Neurotech Systems™**.  
+**SMARTMRI™ (Sovereign Modular Adaptive Recalibration Technology via Mixed Reality Immersion)** is a next-generation neuroadaptive framework developed by **CYNKRONAI Neurotech Systems™**.  
 It fuses **neuroscience**, **mixed reality**, and **ethical artificial intelligence** to pioneer new models of mental-health recovery and cognitive evolution.
 
 SMARTMRI™ integrates immersive XR therapy, connectome-guided neuromodulation, and AI-driven feedback loops to promote sustainable recalibration of neural circuits associated with trauma, addiction, and emotional dysregulation.
@@ -34,7 +34,7 @@ SMARTMRI™ operates under the **Sovereign Aligned Intelligence (SAI) Ethics Cha
 - Transparent consent & real-time control for participants  
 - Alignment of AI interventions with individual autonomy and wellbeing  
 
-Full Charter: [cynkronai.com/ethics](https://www.cynkronai.com/ethics)
+📜 Full Charter → [cynkronai.com/ethics](https://www.cynkronai.com/ethics)
 
 ---
 
