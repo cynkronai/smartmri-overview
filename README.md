@@ -34,7 +34,8 @@ SMARTMRI™ operates under the **Sovereign Aligned Intelligence (SAI) Ethics Cha
 - Transparent consent & real-time control for participants  
 - Alignment of AI interventions with individual autonomy and wellbeing  
 
-📜 Full Charter → [cynkronai.com/ethics](https://www.cynkronai.com/ethics)
+📜 Full Charter → [github.com/cynkronai/sai-charter/blob/main/SAI_Ethics_Charter.md]
+
 
 ---
 
